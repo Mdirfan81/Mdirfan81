@@ -92,8 +92,6 @@ const irfan = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mdirfan81&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdirfan81&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=38BDF8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Mdirfan81&hide_border=true&theme=tokyonight&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contribution streak" />
 
