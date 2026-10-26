@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?Six Years font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Engineer+%7C+Dubai%2C+UAE;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;6%2B+years+shipping+production+interfaces" alt="Frontend Engineer, Dubai UAE" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Engineer+%7C+Dubai%2C+UAE;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;6%2B+years+shipping+production+interfaces" alt="Frontend Engineer, Dubai UAE" />
 
 # Mohammed Irfan Khan
 
